@@ -1,6 +1,8 @@
 body{
     margin: 0;
     font-family: 'Montserrat', sans-serif;
+    font-family: 'Molle', cursive;
+    font-family: 'Sigmar One', cursive;
     font-size: 15px;
     color: #333;
     background-image:url(images/gg2.jpg);
@@ -153,11 +155,14 @@ h1,h2,h3,h4,h5 {
     margin-top: 20px;
     text-align: center;
     color: darkblue;
+   
+    
 }
 .text__nav1{
     text-align: left;
-    color: black;
+    color: white;
     font-size: 20px;
+    font-family: 'Sigmar One', cursive;
 }
 .text__news{
     text-align: left;
